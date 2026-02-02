@@ -10,7 +10,7 @@ const siteConfig = {
     title: 'cat',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'azswedrfgtdfghj.\n' +
+      'azswedrfgtdfghjuhuhuhuhuhhuihuhuhuhuhuh.\n' +
       '\n' +
       'wertyghdjdydnhdhydhdhjdujdjdhdjidhdujd.\n' +
       '\n' +
