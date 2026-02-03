@@ -7,14 +7,14 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Akansha',
-    title: 'cat',
+    title: 'Data Science Student',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
-      'azswedrfgtdfghjuhuhuhuhuhhuihuhuhuhuhuh.\n' +
+      'I am a passionate data science and economics student at Christ (Deemed to be) University.\n' +
       '\n' +
-      'wertyghdjdydnhdhydhdhjdujdjdhdjidhdujd.\n' +
+      'I aspire to be a future Data Analyst.\n' +
       '\n' +
-      'hdyhdhjdudjdiudjdikdhdkd.\n' +
+      '.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
